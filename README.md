@@ -1,2 +1,2 @@
 # Python-Coding-For-Pizza-Orders
-This shows the use of the input function and the if-else statement in python language, and it could be used as a model or other related transactions.
+This made use of the input function and control structures like the if-else statement to design a short python program for registering customers orders while also working out their final bill, and this program could be used as a model for other related transactions. This also used error message format like "invalid" to handle potential errors that may occur while using the program.
